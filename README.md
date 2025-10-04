@@ -11,7 +11,7 @@ download backup
 preview
 <h1 align="center">Hi 👋, I'm Abhi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align =“right”alt=“coding” width=“400” src=“![Uploading WhatsApp Image 2025-10-04 at 20.32.38.jpeg…]()
+<img align =“right”alt=“coding” width=“400” src=“WhatsApp Image 2025-10-04 at 20.32.38.jpeg…()
 ”>
 
 
