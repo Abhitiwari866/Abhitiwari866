@@ -11,7 +11,8 @@ download backup
 preview
 <h1 align="center">Hi 👋, I'm Abhi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align =“right”alt=“coding” width=“400” src=“https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html?embed=true”>
+<img align =“right”alt=“coding” width=“400” src=“![Uploading WhatsApp Image 2025-10-04 at 20.32.38.jpeg…]()
+”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhitiwari866&label=Profile%20views&color=0e75b6&style=flat" alt="abhitiwari866" /> </p>
