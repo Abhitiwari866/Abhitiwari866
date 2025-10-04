@@ -9,6 +9,8 @@ copy-markdown
 download markdown
 download backup
 preview
+<h1 align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=100&color=efdcce&center=true&random=true&width=435&height=60&lines=I+am+Abhi+Tiwari;I+am+a+Website+Developer;I+am+a+UI/UX+Designer;I+am+a+Graphic+Designer;" alt="Typing SVG" />
+
 <h1 align="center">Hi 👋, I'm Abhi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
