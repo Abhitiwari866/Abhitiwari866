@@ -11,7 +11,7 @@ download backup
 preview
 <h1 align="center">Hi 👋, I'm Abhi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align =“right”alt=“coding” width=“400” src="https://www.bing.com/ck/a?!&&p=c9f2c292490eb38a70b45f25058fec8b5fcd28be9fdb4e0a8d9e107d12e8beb4JmltdHM9MTc1OTUzNjAwMA&ptn=3&ver=2&hsh=4&fclid=33cd1972-bc5e-6473-3d55-0c8abdc565bf&u=a1L2ltYWdlcy9zZWFyY2g_cT1hbmltYXRlZCtjb2RpbmcrZ2lmcytmcmVlJmlkPUU5ODA4RDEwRjc4QTE4MDY4QTdDRTM5MTMyRjM1NjIxNUE0RTBFMDkmRk9STT1JQUNGSVI&ntb=1">
+<img align =“right”alt=“coding” width=“400” src="https://tse2.mm.bing.net/th/id/OIP.qCyw0vY1hVKayQLmpW9gRwEsCo?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhitiwari866&label=Profile%20views&color=0e75b6&style=flat" alt="abhitiwari866" /> </p>
